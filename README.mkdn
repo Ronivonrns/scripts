@@ -1,6 +1,8 @@
 
 ## To setup build environment
 
+(This will be updated soon!)
+
 Firsly, install `git`, using whatever package manager has.
 
 Then, run these commands
